@@ -1,5 +1,5 @@
 ---
-name: teco-b2b-inquiry-reply
+name: teco-b2b-customer-inquiry-reply
 description: 分析B2B客户询盘、公司产品线、联系人角色与采购动机，使用FABMP起草价格范围—工艺差异—应用选项CTA三段式回复。适用于即时询盘首回复及询盘邮件，不用于陌生客户开发信；只起草，不发送。
 ---
 

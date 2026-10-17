@@ -84,7 +84,7 @@ Meaning 应基于实际角色、询盘内容和工作情境提出假设，并在
 提供询盘原文，以及已有的客户公司或网站、联系人职位、我方产品资料、报价条件与工艺证据。信息不全也可以开始，Skill 会区分可完成部分与关键缺口。
 
 ```text
-使用 $teco-b2b-inquiry-reply 分析以下询盘并起草回复。
+使用 $teco-b2b-customer-inquiry-reply 分析以下询盘并起草回复。
 
 询盘原文：……
 客户公司/网站及联系人：……
@@ -96,10 +96,10 @@ Meaning 应基于实际角色、询盘内容和工作情境提出假设，并在
 
 ## 安装与依赖
 
-将本仓库克隆为 Codex 技能目录中的 `teco-b2b-inquiry-reply` 文件夹：
+将本仓库克隆为 Codex 技能目录中的 `teco-b2b-customer-inquiry-reply` 文件夹：
 
 ```sh
-git clone https://github.com/tecoatwork/teco-b2b-inquiry-reply.git ~/.codex/skills/teco-b2b-inquiry-reply
+git clone https://github.com/tecoatwork/teco-b2b-customer-inquiry-reply.git ~/.codex/skills/teco-b2b-customer-inquiry-reply
 ```
 
 如果配置了其他技能目录，请使用对应路径；目标目录已存在时先检查版本，不直接覆盖。按宿主应用要求重新加载技能。
